@@ -4,15 +4,15 @@
 
 <!---------------------------------------------------------------------------->
 
-[ZEsarUX]: Repositories/chernandezba/zesarux/README.md
+[ZEsarUX]: Repositories/chernandezba/zesarux/README.md 'ZEsarUX Documentation'
 
 <!---------------------------------------------------------------------------->
 
-[Git ZEsarUX]: https://github.com/chernandezba/zesarux
+[Git ZEsarUX]: https://github.com/chernandezba/zesarux 'ZEsarUX Repository'
 
 <!---------------------------------------------------------------------------->
 
-[Cesar Hernandez Bano]: https://github.com/chernandezba
+[Cesar Hernandez Bano]: https://github.com/chernandezba 'Cesar Hernandez Bano\'s Profile'
 
 <!---------------------------------------------------------------------------->
 
