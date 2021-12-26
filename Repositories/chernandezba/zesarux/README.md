@@ -12,6 +12,7 @@
         <th align = 'center' >Language</th>
         <td align = 'center' ><code>C</code></td>
     </tr>
+    <!------------------------------------------------------------------------->
     <tr>
         <th align = 'center' >Creator</th>
         <td align = 'center' >
@@ -19,13 +20,13 @@
                 <b>Cesar Hernandez Bano</b>
             </a>
         </td>
-        <th align = 'center' >Donate</th>
-        <td align = 'center' >
+        <td align = 'center' colspan = '2' >
             <a href = 'Donate.md' >
-                <b>:yen:</b>
+                <b>Donate</b>
             </a>
         </td>
     </tr>
+    <!------------------------------------------------------------------------->
     <tr>
         <th align = 'center' >License</th>
         <td align = 'center' >
@@ -33,13 +34,20 @@
                 GPLv1
             </a>
         </td>
+        <td align = 'center' colspan = '2' >
+            <a href = 'https://github.com/chernandezba/zesarux/releases' >
+                <b>Releases</b>
+            </a>
+        </td>
     </tr>
+    <!------------------------------------------------------------------------->
     <tr>
         <th align = 'center' >Runs On</th>
         <td align = 'center'>
             <code>Windows</code> | <code>Unix</code><br>
         </td>
     </tr>
+    <!------------------------------------------------------------------------->
     <tr>
         <th align = 'center' >Tested On</th>
         <td align = 'center'>
@@ -52,6 +60,7 @@
             <code>Mac OS X</code><br>
         </td>
     </tr>
+    <!------------------------------------------------------------------------->
     <tr>
         <th align = 'center' >Emulates</th>
         <td><details>
@@ -116,7 +125,7 @@
 
 ## Screenshots
 
-<!--{ Z88 }-------------------------------------------------------------------->
+<!-----------------------------------{ Z88 }----------------------------------->
 
 <details>
     <summary><b>Z88</b></summary>
