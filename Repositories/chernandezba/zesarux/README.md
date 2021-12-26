@@ -1,10 +1,4 @@
 
-[Creator]: https://github.com/chernandezba "Cesar Hernandez Bano's Profile"
-[Github]: https://github.com/chernandezba/zesarux 'ZEsarUX Repository'
-[Donate]: Donate.md
-
-<!---------------------------------------------------------------------------->
-
 # ZEsarUX
 
 <table>
@@ -23,6 +17,12 @@
         <td align = 'center' >
             <a href = 'https://github.com/chernandezba' >
                 <b>Cesar Hernandez Bano</b>
+            </a>
+        </td>
+        <th align = 'center' >Donate</th>
+        <td align = 'center' >
+            <a href = 'Donate.md' >
+                <b>:yen:</b>
             </a>
         </td>
     </tr>
@@ -54,7 +54,9 @@
     </tr>
     <tr>
         <th align = 'center' >Emulates</th>
-        <td>
+        <td><details>
+            <summary>These Systems</summary>
+            <br>
             <b>Cambridge:</b><br>
             <li><code>MK14</code></li>
             <li><code>Z88</code></li>
@@ -107,12 +109,41 @@
             <li><code>Chrome</code></li>
             <li><code>Prism</code></li>
             <li><code>MSX1</code></li>
+            </details>
         </td>
     </tr>
 </table>
 
----
+## Screenshots
 
-**⸢ [:yen:][Donate] ⸥**
+<!--{ Z88 }-------------------------------------------------------------------->
 
----
+<details>
+    <summary><b>Z88</b></summary>
+    <h3>Applications</h3>
+    <img src = 'Resources/Z88/Applications.png'>
+    <h3>Diary</h3>
+    <img src = 'Resources/Z88/Diary.png'>
+    <h3>Pipedream</h3>
+    <img src = 'Resources/Z88/Pipedream.png'>
+    <h3>BBC Basic</h3>
+    <img src = 'Resources/Z88/BBC%20Basic.png'>
+    <h3>Calculator</h3>
+    <img src = 'Resources/Z88/Calculator.png'>
+    <h3>Clock</h3>
+    <img src = 'Resources/Z88/Clock.png'>
+    <h3>Filer</h3>
+    <img src = 'Resources/Z88/Filer.png'>
+    <h3>EazyLink</h3>
+    <img src = 'Resources/Z88/EazyLink.png'>
+    <h3>Panel</h3>
+    <img src = 'Resources/Z88/Panel.png'>
+    <h3>FlashStore</h3>
+    <img src = 'Resources/Z88/FlashStore.png'>
+    <h3>PrinterEd</h3>
+    <img src = 'Resources/Z88/PrinterEd.png'>
+    <h3>Imp-Export</h3>
+    <img src = 'Resources/Z88/Imp-Export.png'>
+    <h3>Terminal</h3>
+    <img src = 'Resources/Z88/Terminal.png'>
+</details>
